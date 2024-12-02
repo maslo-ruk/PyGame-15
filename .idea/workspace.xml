@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e6077db-5be7-40c5-be6d-e0b79c7fbe6a" name="Changes" comment="commit second dude2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop_count" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pf7WoW0rkSB0eFYqZ5EPYjKUpi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/zhavoronkoved/PycharmProjects/pgame_egor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/papka1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e6077db-5be7-40c5-be6d-e0b79c7fbe6a" name="Changes" comment="" />
+      <created>1733145309569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733145309569</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1 commit">
+      <option name="closed" value="true" />
+      <created>1733145379993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733145379993</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hhh commit">
+      <option name="closed" value="true" />
+      <created>1733145557545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733145557545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new commit main2">
+      <option name="closed" value="true" />
+      <created>1733145817754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733145817754</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new commit main2">
+      <option name="closed" value="true" />
+      <created>1733146064389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733146064389</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dev commit">
+      <option name="closed" value="true" />
+      <created>1733146337739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733146337739</updated>
+    </task>
+    <task id="LOCAL-00006" summary="dev commit">
+      <option name="closed" value="true" />
+      <created>1733146361488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733146361488</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dev commit">
+      <option name="closed" value="true" />
+      <created>1733146437164</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733146437164</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit h">
+      <option name="closed" value="true" />
+      <created>1733146648934</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733146648934</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit h">
+      <option name="closed" value="true" />
+      <created>1733146681817</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733146681817</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit pafnuti">
+      <option name="closed" value="true" />
+      <created>1733147087609</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733147087610</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit russian">
+      <option name="closed" value="true" />
+      <created>1733147171102</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733147171102</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit russian">
+      <option name="closed" value="true" />
+      <created>1733147196315</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733147196315</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit russian">
+      <option name="closed" value="true" />
+      <created>1733147250941</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733147250941</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit third dude1">
+      <option name="closed" value="true" />
+      <created>1733147713439</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733147713439</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit second dude2">
+      <option name="closed" value="true" />
+      <created>1733147739581</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733147739581</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 commit" />
+    <MESSAGE value="hhh commit" />
+    <MESSAGE value="new commit main2" />
+    <MESSAGE value="dev commit" />
+    <MESSAGE value="commit h" />
+    <MESSAGE value="commit pafnuti" />
+    <MESSAGE value="commit russian" />
+    <MESSAGE value="commit third dude1" />
+    <MESSAGE value="commit second dude2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit second dude2" />
+  </component>
+</project>
